@@ -125,4 +125,4 @@ venv.bak/
 dmypy.json
 
 # data
-data/*
+data/
