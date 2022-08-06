@@ -21,15 +21,15 @@ to learn what I am inspired by.
 
 <div align="center"><a name="menu"></a>
   <h4>
-    <a href="https://github.com/AnatolyAdamovich/learning/tree/main/books">
+    <a href="https://github.com/AnatolyAdamovich/learning/tree/books">
       books
     </a>
     <span> | </span>
-    <a href="https://github.com/AnatolyAdamovich/learning/tree/main/courses">
+    <a href="https://github.com/AnatolyAdamovich/learning/tree/courses">
       courses
     </a>
     <span> | </span>
-    <a href="https://github.com/AnatolyAdamovich/learning/tree/main/playlists">
+    <a href="https://github.com/AnatolyAdamovich/learning/tree/playlists">
       playlists
     </a>
   </h4>
