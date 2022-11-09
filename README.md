@@ -5,9 +5,6 @@
 
 </div>
 <p><font size="3">
-I have tried many different platforms, 
-but my favorite is <a href="https://welcome.stepik.org/ru">Stepik</a>.
-It contains a lot of free and informative materials
-that have been (and remain) very useful to me.
+<a href="https://welcome.stepik.org/ru">Stepik</a> platform contains a lot of free and informative materials.
 </p>
 
